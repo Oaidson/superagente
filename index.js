@@ -274,6 +274,7 @@ const main = async () => {
 
   // Iniciar servidor HTTP na porta 3000
   httpServer(3000)
+console.log("==================== ESCANEIE O CÓDIGO QR ABAIXO ====================");
+console.log("==================== INÍCIO DO CÓDIGO QR ====================");
 }
-
 main()
